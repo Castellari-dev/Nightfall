@@ -1,0 +1,32 @@
+
+---
+
+### 📄 `.gitignore`
+
+```gitignore
+# Godot folders
+.import/
+.export/
+mono/
+*.import
+.godot
+
+# Mono / C#
+*.csproj.user
+*.sln
+*.suo
+*.pidb
+*.dll
+*.exe
+*.mdb
+*.cache
+*.obj
+
+# IDEs
+.vscode/
+.idea/
+*.userprefs
+
+# OS
+.DS_Store
+Thumbs.db
