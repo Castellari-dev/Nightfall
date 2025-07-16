@@ -19,9 +19,3 @@ Você assume o papel de um personagem que lida com forças ocultas, ideias proib
 ## 🚧 Estado atual
 
 > Em desenvolvimento inicial. Estrutura básica do sistema de cartas e slots está sendo implementada.
-
-## 📦 Como rodar o projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nightfall.git
